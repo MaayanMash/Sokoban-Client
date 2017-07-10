@@ -10,7 +10,8 @@ import commons.Target;
 import model.data.TypeFactory;
 
 /**
- * Defines 2D level
+ * Defines 2D level extends LevelA
+ * 
  *
  */
 public class Level2D extends LevelA {
